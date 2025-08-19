@@ -21,14 +21,14 @@ You'll need two applications:
 
 ### Step 1: Configure Karabiner-Elements
 
-First, remap your media keys to function keys that macOS doesn't typically use (F13-F20).
+First, remap your media keys to function keys outside of regular range (F13-F20).
 
 #### Function Keys Settings
 Map the following media keys to higher function keys:
-- `F3` (Mission Control) → `F13`
-- `F4` (Launchpad) → `F14`
-- `F5` (Keyboard Brightness Down) → `F15`
-- `F6` (Keyboard Brightness Up) → `F16`
+- `F3` (Exposé) → `F13`
+- `F4` (Spotlight) → `F14`
+- `F5` (Voice Control) → `F15`
+- `F6` (Sleep) → `F16`
 
 <img width="1212" height="844" alt="image" src="https://github.com/user-attachments/assets/f38afc3f-e60d-4688-b9a1-83ed02cef16a" />
 
