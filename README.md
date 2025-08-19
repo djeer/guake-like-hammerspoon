@@ -30,11 +30,14 @@ Map the following media keys to higher function keys:
 - `F5` (Keyboard Brightness Down) → `F15`
 - `F6` (Keyboard Brightness Up) → `F16`
 
+<img width="1212" height="844" alt="image" src="https://github.com/user-attachments/assets/f38afc3f-e60d-4688-b9a1-83ed02cef16a" />
+
 *Note: You can still access the original F3-F6 functions by holding the Fn key as usual.*
 
 #### Additional Modifications (ISO Keyboards)
 If you have an ISO keyboard with the paragraph sign key (§):
 - `non_us_backslash` → `F20`
+<img width="1212" height="844" alt="image" src="https://github.com/user-attachments/assets/af84c981-06e7-4d5e-9e3c-8ae49c6b0854" />
 
 This remaps the rarely-used paragraph sign key to quickly open your terminal.
 
@@ -42,7 +45,7 @@ This remaps the rarely-used paragraph sign key to quickly open your terminal.
 
 After setting up Karabiner-Elements:
 1. Install Hammerspoon
-2. Add this configuration to map your newly created F-keys to specific applications by name
+2. Add `init.lua` contents to `~/.hammerspoon/init.lua` to map your newly created F-keys to specific applications by name
 3. Customize which apps launch with which keys
 
 ## How It Works
